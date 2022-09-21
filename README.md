@@ -1,4 +1,4 @@
-### Hi there, i'm Ruan Emanuell 👋
+### Hello there, i'm Ruan Emanuell 👋
 
 I’m currently learning Flutter, and looking foward to become a better mobile Developer 😊
 
