@@ -2,7 +2,7 @@
 
 I’m currently learning Flutter, and looking foward to become a better mobile Developer 😊
 
-### Tecnologies I'm familiar with or studying:
+### Technologies I'm familiar with or studying:
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/>
