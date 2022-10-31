@@ -1,6 +1,6 @@
 ### Hello there, I'm Ruan Emanuell 👋
 
-I’m currently learning Flutter, and looking foward to become a better mobile Developer 😊
+I’m currently learning Flutter, and looking foward to become a better Developer 😊
 
 ### Technologies I'm familiar with or studying:
 
