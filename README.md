@@ -4,7 +4,7 @@ I’m currently learning Flutter, and looking foward to become a better Develope
 
 ### Technologies I'm familiar with or studying:
 
-<div style=background-color:white>
+<div style="background-color:red;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
